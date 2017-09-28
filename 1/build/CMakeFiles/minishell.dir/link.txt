@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/minishell.dir/src/main.c.o CMakeFiles/minishell.dir/src/parse.c.o CMakeFiles/minishell.dir/src/init.c.o  -o minishell -rdynamic 
