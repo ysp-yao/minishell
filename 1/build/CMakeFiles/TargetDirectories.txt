@@ -1,3 +1,0 @@
-/root/minishell/1/build/CMakeFiles/edit_cache.dir
-/root/minishell/1/build/CMakeFiles/rebuild_cache.dir
-/root/minishell/1/build/CMakeFiles/minishell.dir
