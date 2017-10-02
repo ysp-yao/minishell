@@ -19,7 +19,14 @@ private:
 
 private:
   
-  char command[1024];  
+  char command_[1024];  
+  
+  struct cmd {
+    char *
+  }
+
+  
+
 
 };
 

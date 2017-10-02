@@ -1,5 +1,5 @@
 
-#include "MiniShell.h"
+#include "minishell.h"
 
 #include <stdio.h>
 
