@@ -11,7 +11,10 @@ do { \
 } while(0)
 
 
-
-
+const unsigned int kMaxArgvNum = 10;
+const unsigned int kMaxCmdNum = 10; 
+const unsigned int kMaxInputCmdLength = 1024;
+const unsigned int kMaxFileNameLength = 64; 
+const unsigned int kMaxPipeline = 10;
 
 #endif // DEF_H_
